@@ -15,7 +15,7 @@ const knittingFren = new Client({
 
 //Nanachi wake up~
 knittingFren.login(
-	"MTIwNTIzNTUxNTQ1NzE1MTAyNg.GKkY1Q.byKDVRWo_S6YqZiWUwqyG6DXIr_REZmuLZ7Lkc"
+	
 );
 
 //Nanachi watching all the messages that come in for an attachment
